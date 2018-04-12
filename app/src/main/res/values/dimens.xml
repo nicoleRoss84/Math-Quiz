@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Math time textView -->
+    <dimen name="activity_main_text_margin_left">100dp</dimen>
+    <dimen name="activity_main_text_margin_top">86dp</dimen>
+    <dimen name="size">24sp</dimen>
+
+    <!-- Home screen description textView -->
+    <dimen name="paddingTopText">8dp</dimen>
+    <dimen name="paddingBottomText">8dp</dimen>
+    <dimen name="textSizeHome">14sp</dimen>
+    <dimen name="linear_layout_padding">24dp</dimen>
+
+    <!-- buttons -->
+    <dimen name="buttonPadRight">6dp</dimen>
+    <dimen name="buttonPadLeft">6dp</dimen>
+
+    <!-- Radio buttons -->
+    <dimen name="textSize">16sp</dimen>
+    <dimen name="paddingTop">16dp</dimen>
+    <dimen name="marginBottom">16dp</dimen>
+    <dimen name="marginTop">44dp</dimen>
+
+    <!-- Card View size -->
+    <!--<dimen name="layout_width">350dp</dimen>-->
+    <dimen name="layout_height">500dp</dimen>
+    <dimen name="layout_margin">10dp</dimen>
+    <dimen name="cardCorner">4dp</dimen>
+
+    <!-- Math problem screen -->
+    <dimen name="problemText">45sp</dimen>
+
+    <!-- Score screen -->
+    <dimen name="textView">24sp</dimen>
+    <dimen name="ending">40sp</dimen>
+    <dimen name="greatMarginTop">16dp</dimen>
+    <dimen name="youMarginTop">30dp</dimen>
+
+</resources>

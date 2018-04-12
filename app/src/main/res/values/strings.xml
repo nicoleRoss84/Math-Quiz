@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <!-- Home Screen descriptions -->
+    <string name="types">What type of quiz (choose up to 4): </string>
+    <string name="level">Select difficulty level:</string>
+    <string name="app_name">math quiz</string>
+    <string name="title">Its Math Time!</string>
+    <string name="submit">Start Quiz</string>
+
+    <!--problems screen -->
+    <string name="Submit">Submit</string>
+
+    <!--Score Screen -->
+    <string name="restart_button">Restart Quiz</string>
+    <string name="ending">Great Job!</string>
+    <string name="score">You Got </string>
+    <string name="numbers">1</string>
+    <string name="of">&#032;of&#032;</string>
+    <string name="totalNum">10</string>
+
+    <!--types of math problems -->
+    <string name="subtraction">Subtraction</string>
+    <string name="addition">Addition</string>
+    <string name="times">Multiplication</string>
+    <string name="divide">Division</string>
+
+    <!--level radio buttons -->
+    <string name="easy">Easy</string>
+    <string name="medium">Medium</string>
+    <string name="hard">Hard</string>
+
+</resources>
